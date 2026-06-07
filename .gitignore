@@ -1,0 +1,14 @@
+data/
+models/
+__pycache__/
+.venv/
+.env
+*.pkl
+*.csv
+*.png
+*.html
+reports/
+assets/
+dashboard.py
+run_attrition.py
+requirements.txt
